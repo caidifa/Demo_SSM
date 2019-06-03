@@ -1,7 +1,7 @@
 package com.cai.entity;
 
 /**
- * Created by caibaolong on 2019/5/30.
+ * Created by caibaolong on 2019/6/3.
  */
 public class UserInfo {
     public int userId;
